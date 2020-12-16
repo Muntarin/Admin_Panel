@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e6119457-cd21-4b73-abbd-d307d545c624" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1l2lyiqm7j7KLOeuKFLvfEPWkZU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../munablog" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\LMS\librarian" />
+      <recent name="C:\xampp\htdocs\LMS\student" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6119457-cd21-4b73-abbd-d307d545c624" name="Default Changelist" comment="" />
+      <created>1606803327643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606803327643</updated>
+      <workItem from="1606803330107" duration="8070000" />
+      <workItem from="1606814714059" duration="16242000" />
+      <workItem from="1606883113584" duration="18233000" />
+      <workItem from="1606969936479" duration="21325000" />
+      <workItem from="1607059446654" duration="8274000" />
+      <workItem from="1607082391938" duration="9183000" />
+      <workItem from="1607145033619" duration="7275000" />
+      <workItem from="1607159778127" duration="5535000" />
+      <workItem from="1607230610524" duration="21125000" />
+      <workItem from="1607314769521" duration="13229000" />
+      <workItem from="1607402739526" duration="8248000" />
+      <workItem from="1607487152231" duration="20614000" />
+      <workItem from="1607523544631" duration="663000" />
+      <workItem from="1607750479746" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1607750558520">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1607750558520" />
+    <state x="859" y="287" key="NewPhpFileDialog" timestamp="1607490989535">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="859" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1607490989535" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1607406019447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1607406019447" />
+    <state x="688" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606906291685">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="688" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606906291685" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/student/logout.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
